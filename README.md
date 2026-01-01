@@ -1,2 +1,2 @@
 # ice-cream
-# chocolate
+# chocolates
